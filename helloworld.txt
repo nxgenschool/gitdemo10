@@ -5,4 +5,10 @@ This note is added on new-feature branch.
 
 This is learning git commands on extended branch.
 Today is 15.10.2023 Sunday.
+
+
+adding this line after commit.
+
+
+
  
