@@ -1,0 +1,8 @@
+This is hello world text file for git demo.
+Testing for tracking or not on committed file.
+
+This note is added on new-feature branch.
+
+This is learning git commands on extended branch.
+Today is 15.10.2023 Sunday.
+ 
